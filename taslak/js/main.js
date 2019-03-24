@@ -17,7 +17,7 @@ function norwayY() {
 	document.getElementById("norwayY").style.visibility="visible";
 }
 
-	// add.html
+
 
 var $fileInput = $('.file-input');
 var $droparea = $('.file-drop-area');
@@ -46,3 +46,7 @@ $fileInput.on('change', function() {
     $textContainer.text(filesCount + ' files selected');
   }
 });
+
+
+/* POPUP SCRIPTS */ 
+
